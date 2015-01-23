@@ -9,6 +9,7 @@ Areas that need improvement
 * Understanding JSON, AJAX, and APIs
 * Sort out my ReadMes
 * Learning how to programme in a team
+* Need to start a blog - have bought emily.codes domain, but haven't managed to set up server properly.
 
 Long-Term Goals
 ----------
@@ -34,3 +35,4 @@ Possibilities:
 * Try playing with hardware - ardouino? (I realise I couldn't achieve an awful lot in a week, but could play about and maybe it'd enable me to use it for a final project)
 * Finish off Battleships Web
 * Finish artist's website (started before the course) using jQuery
+* Set up server for emily.codes and start blog
