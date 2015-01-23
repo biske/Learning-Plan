@@ -36,3 +36,4 @@ Possibilities:
 * Finish off Battleships Web
 * Finish artist's website (started before the course) using jQuery
 * Set up server for emily.codes and start blog
+* Start thinking about Node - learnyounode at nodeschool.io
