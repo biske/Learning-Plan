@@ -10,10 +10,12 @@ Areas that need improvement
 * Sort out my ReadMes
 * Learning how to programme in a team
 * Need to start a blog - have bought emily.codes domain, but haven't managed to set up server properly.
+* Need to start doing codewars
+* Need to start reading others' code
 
 Long-Term Goals
 ----------
-Whilst I would like to be able to do fullstack programming, I am currently much more interested in back end than front end. I would like to have a range of languages under my belt, but am less interested in learning things (in depth) that only relate front end.
+Whilst I would like to be able to do fullstack programming, I am currently much more interested in back end than front end. I would like to have a range of languages under my belt, but am less interested in learning things (in depth) that only relate to front end.
 
 
 Books I'm reading / planning to read
@@ -21,13 +23,13 @@ Books I'm reading / planning to read
 
 * The Well Grounded Rubyist (currently at Chapter 13)
 * Practical Object Oriented Design (current at Chapter 5)
+* Eloquent JavaScript (currently on Chapter 3)
 * JavaScript The Good Parts
 * JavaScript & JQuery, Duckett
 
 
-Plan
--------
-Possibilities: 
+Possibilities
+-------------
 * Working my way through JavaScript the Good Parts
 * Working with a group of people to create a well designed ruby app to fit a brief that changes throughout the week
 * Trying to learn something new - Volt? (as I have a preference for Ruby) CoffeeScript? Ember? Meteor? (as it'd be good to have diversity)
@@ -37,3 +39,10 @@ Possibilities:
 * Finish artist's website (started before the course) using jQuery
 * Set up server for emily.codes and start blog
 * Start thinking about Node - learnyounode at nodeschool.io
+
+Plan
+-------
+To spend Monday & Tuesday finishing reading through Eloquent JavaScript and JavaScript The Good Parts
+To spend Wednesday & Thursday learning something new (Ember? Meteor? Volt? Arduino?)
+To spend Friday setting up server, starting blog, finishing ReadMes, and beginning Mihai's Weekend Challenge (using APIs and JSONs)
+To spend the weekend finishing Mihai's challenge and preparing for Node via nodeschool
