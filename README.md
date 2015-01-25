@@ -21,9 +21,9 @@ Whilst I would like to be able to do fullstack programming, I am currently much 
 Books I'm reading / planning to read
 ----------
 
-* The Well Grounded Rubyist (currently at Chapter 13)
-* Practical Object Oriented Design (current at Chapter 5)
-* Eloquent JavaScript (currently on Chapter 3)
+* The Well Grounded Rubyist (currently at Ch. 13)
+* Practical Object Oriented Design (current at Ch. 5)
+* Eloquent JavaScript (currently mid-way through Ch. 6 (OOD), although a lot of Ch. 5 (Func. Prog.) eluded me)
 * JavaScript The Good Parts
 * JavaScript & JQuery, Duckett
 
